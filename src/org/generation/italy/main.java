@@ -67,7 +67,7 @@ public class main {
 				
 		sc.close();
 
-
+System.out.println("sono stati creati questi gruppi");
 		
 		
 	}
